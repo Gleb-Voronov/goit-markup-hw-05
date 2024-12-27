@@ -737,7 +737,7 @@ footer .logo-style {
 }
 
 .checkbox:checked+ .form-user-checkbox .castom-checkbox {
-    border: none;
+    border: transparent;
     background-color: #404bbf;
     border: 1px solid #404bbf;
     fill: #f4f4fd;
